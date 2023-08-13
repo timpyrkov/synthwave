@@ -22,7 +22,7 @@ pip install --upgrade excolor
 #
 # Ocean waves
 
-Ocean waves generated with Perlin noise. See `ocean.ipynb` for drawing and animation cade.
+Ocean waves generated with Perlin noise. See `ocean.ipynb` for drawing and animation code.
 
 ![](img/ocean_day.jpg)
 ![](img/ocean_night.jpg)
