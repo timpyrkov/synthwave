@@ -16,7 +16,7 @@
 * Install requirements:
 
 ```
-pip install --upgrade excolor
+pip install -r requirements.txt
 ```
 
 #
