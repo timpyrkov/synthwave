@@ -7,7 +7,7 @@
 
 * On Linux or Mac clone repository to a location listed in the environment variable `PYTHONPATH` 
 
-* Or, add line in your code or juoyter notebook to make the location accessible, e.g.:
+* Or, add lines like these to your jupyter notebook to make the location accessible, e.g.:
     
     `path = os.path.expanduser("~/repo/synthwave/")`
 
@@ -22,7 +22,7 @@ pip install -r requirements.txt
 #
 # Ocean waves
 
-Ocean waves generated with Perlin noise. See `ocean.ipynb` for drawing and animation code.
+Ocean waves generated with Perlin noise. See `ocean.ipynb` for drawing and animation code in python.
 
 ![](img/ocean_day.jpg)
 ![](img/ocean_night.jpg)
